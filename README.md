@@ -34,7 +34,7 @@ My name is Dawid and welcome on my profile.
   * I love driving car :car:
   * I don't use facebook
 
-## Connect with me  
+## :memo: Connect with me  
 <div align="center">
 <a href="https://github.com/DawidLachor" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
