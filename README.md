@@ -13,9 +13,18 @@ My name is Dawid and welcome on my profile.
 </div>
 
 ## :chart_with_upwards_trend:Github Stats  
+<table><tr><td>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DawidLachor&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
+  </td><td>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawidLachor&hide_border=true&layout=compact" align="center" /></div>  
+  </td></tr></table>
+  <table align="center">
+  <tr><td align="center">
+<div align="center">
+  
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Skorpionv1)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+</td></tr></table>
 
 ## :book:About me
 - 🔭 I’m currently working on pizzeria in Spring Boot :pizza:
