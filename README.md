@@ -27,8 +27,6 @@ My name is Dawid and welcome on my profile.
 </td></tr></table>
 
 ## :book:About me
-- 🔭 I’m currently working on pizzeria in Spring Boot :pizza:
-- 🌱 I’m currently learning Spring Boot and PostgreSQL 
 - ⚡ Fun fact: 
   * I like bike :bike:
   * I love driving car :car:
